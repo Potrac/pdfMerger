@@ -1,6 +1,6 @@
 # pdfMerger
 Simple Python CLI PDFs merger built with PyPDF2 
 
-*Usage*
+**Usage**
 
-´python pdfmerger.py "path/to/pdf1.pdf" "path/to/pdf2.pdf" [-o optional output path, default = current directory]´
+    python pdfmerger.py "path/to/pdf1.pdf" "path/to/pdf2.pdf" [-o optional output path, default = current directory]
